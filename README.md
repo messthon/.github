@@ -1,0 +1,2 @@
+# .github
+Messthon messenger community
