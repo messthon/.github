@@ -1,5 +1,4 @@
-# Messthon [![mst](https://raw.githubusercontent.com/messthon/.github/refs/heads/main/profile/mst.jpg)](https://github.com/sindresorhus/awesome#readme)
-> <img src="mst.jpg" align="right"/>
+# Messthon [![mst](https://raw.githubusercontent.com/messthon/.github/refs/heads/main/profile/mst.jpg)](https://github.com/messthon)
 
 ## Hi there 👋
 
